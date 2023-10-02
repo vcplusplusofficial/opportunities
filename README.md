@@ -1,4 +1,4 @@
-# Opportunities
+# Opportunities For VC++
 List of CS underclassmen internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore, or the deadlines are completely wrong. 
 **Double check the deadlines!**
 
