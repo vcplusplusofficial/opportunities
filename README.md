@@ -24,10 +24,28 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
     * There are recordings of past workshops 
 
 **Learning resources outside of Vassar:**
-
+* Codepath
+    * Free courses that teach cybersecurity, iOS application development and Android application development
+    * Application begins before the start of each semester 
+* MOOCs sites and browser-based sites to learn code: Coursera, DataCamp, Udemy, etc. 
 
 
 ## Practicing your Knowledge
+**Technical Interview Preparation**
+* Leetcode
+    * VC++ Leetcode premium subscription
+* Hackerank
+    * Do problems consistently
+* Cracking the coding interview
+
+**Hackathons**
+* Major league hacking
+    * Organization that helps organize hackathons
+    * Free, virtual hackathons happen [all the time](https://mlh.io) 
+
+**Projects**
+
+
 ## Internship Search
 ## Resume
 ## Interviewing
