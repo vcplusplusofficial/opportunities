@@ -22,7 +22,7 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
 ## opportunities-not-internships
 ## blogs-and-resources
 
- * [CS underclassmen internships](#cs-underclassmen-internships)
+ * [CS underclassmeninternships](#cs-underclassmen-internships)
  * [CS internship alternative](#cs-internship-alternative)
  * [Part-time internships](#part-time-internships)
  * [For rising seniors and seniors](#for-rising-seniors-and-seniors)
