@@ -14,15 +14,15 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
  * [Opportunities that are NOT internships](#opportunities-not-internships)
  * [Blogs and resources worth following](#blogs-and-resources)
 
-## learning-phase
-## practicing-your-knowledge
-## internship-search
-## resume
-## interviewing
-## opportunities-not-internships
-## blogs-and-resources
+## Learning phase -- building your skillset
+## Practicing your Knowledge
+## Internship Search
+## Resume
+## Interviewing
+## Opportunities that are NOT internships
+## Blogs and resources worth following
 
- * [CS underclassmeninternships](#cs-underclassmen-internships)
+ * [CS underclassmen internships](#cs-underclassmen-internships)
  * [CS internship alternative](#cs-internship-alternative)
  * [Part-time internships](#part-time-internships)
  * [For rising seniors and seniors](#for-rising-seniors-and-seniors)
