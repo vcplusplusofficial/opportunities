@@ -86,18 +86,45 @@ Building *anything* is better than building *nothing* so just start building *so
     * Youtube tutorials
         * Brad Traversy (Traversy Media): MERN-stack web dev (https://www.youtube.com/user/TechGuyWeb)
 
-
-
-
-
-
-
-
 ## Internship Search
+* Start in the Fall for jobs in the Summer.
 ## Resume
+**CS-related things to include:**
+* Programming languages/technologies i.e React, Python
+* Work experience
+* Past internships
+* On campus jobs
+* Projects (List technologies used)
+
+**Style**
+* Minimal colors/images
+* Use a template
+* Personal favorite (Uses LaTeX):
+    * https://github.com/sb2nov/resume 
+
+**Resources**
+* CDO’s resume guide: https://careers.vassar.edu/docs/Resume_Guide.pdf 
+* Email it to someone from the CDO to review: cdo@vassar.edu 
+
+
 ## Interviewing
+**Interviewing Techniques**
+* CDO Interviewing Guide: https://careers.vassar.edu/docs/All_About_Interviewing.pdf 
+* Glassdoor: https://www.glassdoor.com/blog/guide/how-to-prepare-for-a-behavioral-interview
+
+**Practice Interviewing**
+* Behavioural: https://www.videointerviewbot.com 
+* Technical: https://interviewing.io (Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies)
+
 ## Opportunities that are NOT internships
+* URSI
+* Ford
+* Develop for Good
+
 ## Blogs and resources worth following
+* Reddit r/cscareerquestions: https://www.reddit.com/r/cscareerquestions/ 
+* Reddit r/csmajors: https://www.reddit.com/r/csMajors/ 
+
 
  * [CS underclassmen internships](#cs-underclassmen-internships)
  * [CS internship alternative](#cs-internship-alternative)
