@@ -72,38 +72,39 @@ Building *anything* is better than building *nothing* so just start building *so
     * Mobile
         * Native:
             * iOS: SwiftUI (swift)
-                * Stanford CS193p: SwiftUI for iOS dev (https://cs193p.sites.stanford.edu)
+                * Stanford CS193p: SwiftUI for iOS dev. [Link](https://cs193p.sites.stanford.edu)
             * Android: Android Studio (Kotlin/java)
-                * Rahul Pandey: Native Android dev (https://www.youtube.com/channel/UCJNUtbsYnt-8meFSj_yF50Q)
+                * Rahul Pandey: Native Android dev. [Link](https://www.youtube.com/channel/UCJNUtbsYnt-8meFSj_yF50Q)
         * Cross-platform:
             * Flutter (Dart)
             * React Native (Javascript)
 * Tutorials:
-    * freeCodeCamp (https://www.freecodecamp.org/)
-    * LinkedIn Learning (http://linkedin.com/learning)
-    * Scrimba (https://scrimba.com/)
-    * Udemy (https://www.udemy.com/)
+    * [freeCodeCamp](https://www.freecodecamp.org/)
+    * [LinkedIn Learning](http://linkedin.com/learning)
+    * [Scrimba](https://scrimba.com/)
+    * [Udemy](https://www.udemy.com/)
     * Youtube tutorials
-        * Brad Traversy (Traversy Media): MERN-stack web dev (https://www.youtube.com/user/TechGuyWeb)
+        * Brad Traversy (Traversy Media): MERN-stack web dev. [Link](https://www.youtube.com/user/TechGuyWeb)
 
 ## Internship Search
 * Start in the Fall for jobs in the Summer.
 
 **Where to look?**
 * Website that lists all open positions and which stage their search is at (10/10 recommend checking this out): https://www.cscareers.dev 
-* RippleMatch: They match you to internships: https://ripplematch.com 
+* [RippleMatch](https://ripplematch.com): They match you to internships: 
 * LinkedIn (set alerts for "2024 X intern")
 * Handshake
 * Jumpstart
-* Startup jobs: https://angel.co/jobs 
+* Startup jobs:
+    * [Angellist](https://angel.co/jobs)
 * Summer 2024 tech internships:
-    * https://github.com/SimplifyJobs/Summer2024-Internships
+    * [Github](https://github.com/SimplifyJobs/Summer2024-Internships)
 * Summer 2024 entry jobs: 
-    * https://github.com/SimplifyJobs/New-Grad-Positions
+    * [Github](https://github.com/SimplifyJobs/New-Grad-Positions)
 * List of software engineering jobs:
-    * https://docs.google.com/spreadsheets/d/1jGa5y7W7rG5tf1HZBF_P-9EmhUDhjvi8ecq7Q43NrMA/edit#gid=0
+    * [spreadsheet](https://docs.google.com/spreadsheets/d/1jGa5y7W7rG5tf1HZBF_P-9EmhUDhjvi8ecq7Q43NrMA/edit#gid=0)
 * Job board for jobs involved with social issues:
-    * https://www.remoteimpact.io/
+    * [remoteimpact](https://www.remoteimpact.io/)
 
 **Networking**
 * Where
@@ -136,21 +137,23 @@ Building *anything* is better than building *nothing* so just start building *so
 * Minimal colors/images
 * Use a template
 * Personal favorite (Uses LaTeX):
-    * https://github.com/sb2nov/resume 
+    * [Github](https://github.com/sb2nov/resume)
 
 **Resources**
-* CDO’s resume guide: https://careers.vassar.edu/docs/Resume_Guide.pdf 
+* CDO’s resume guide: [Link](https://careers.vassar.edu/docs/Resume_Guide.pdf)
 * Email it to someone from the CDO to review: cdo@vassar.edu 
 
 
 ## Interviewing
 **Interviewing Techniques**
-* CDO Interviewing Guide: https://careers.vassar.edu/docs/All_About_Interviewing.pdf 
-* Glassdoor: https://www.glassdoor.com/blog/guide/how-to-prepare-for-a-behavioral-interview
+* CDO Interviewing Guide: [Link](https://careers.vassar.edu/docs/All_About_Interviewing.pdf)
+* [Glassdoor](https://www.glassdoor.com/blog/guide/how-to-prepare-for-a-behavioral-interview)
 
 **Practice Interviewing**
-* Behavioural: https://www.videointerviewbot.com 
-* Technical: https://interviewing.io (Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies)
+* Behavioural: 
+    * [Video interview bot](https://www.videointerviewbot.com)
+* Technical: 
+    * [interviewing.io](https://interviewing.io): (Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies)
 
 ## Opportunities that are NOT internships
 * URSI
@@ -158,8 +161,8 @@ Building *anything* is better than building *nothing* so just start building *so
 * Develop for Good
 
 ## Blogs and resources worth following
-* Reddit r/cscareerquestions: https://www.reddit.com/r/cscareerquestions/ 
-* Reddit r/csmajors: https://www.reddit.com/r/csMajors/ 
+* Reddit r/cscareerquestions: [reddit](https://www.reddit.com/r/cscareerquestions/)
+* Reddit r/csmajors: [reddit](https://www.reddit.com/r/csMajors/)
 
 
  * [CS underclassmen internships](#cs-underclassmen-internships)
