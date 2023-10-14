@@ -1,10 +1,26 @@
-# Opportunities For VC++
-List of CS underclassmen internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore, or the deadlines are completely wrong. 
+# VC++ Career Resources
+List of CS internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore, or the deadlines are completely wrong. 
 **Double check the deadlines!**
 
 For Summer SWE internships go to [Summer 2024 CS Internships](https://github.com/pittcsc/Summer2024-Internships). 
 
 Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
+
+*[Learning phase -- building your skillset](#learning-phase)
+*[Practicing your Knowledge](#practicing-your-knowledge)
+*[Internship Search](#internship-search)
+*[Resume](#resume)
+*[Interviewing](#interviewing)
+*[Opportunities that are NOT internships](#opportunities-not-internships)
+*[Blogs and resources worth following](#blogs-and-resources)
+
+## learning-phase
+## practicing-your-knowledge
+## internship-search
+## resume
+## interviewing
+## opportunities-not-internships
+## blogs-and-resources
 
  * [CS underclassmen internships](#cs-underclassmen-internships)
  * [CS internship alternative](#cs-internship-alternative)
