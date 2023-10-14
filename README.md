@@ -45,6 +45,53 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
 
 **Projects**
 
+Building *anything* is better than building *nothing* so just start building *something*
+
+* Need ideas? Check out these subreddits:
+    * r/SomebodyMakeThis
+    * r/AppIdeas
+* How to start?
+    * Follow tutorials
+    * If you don't have an idea, build what they are building
+    * Else, tweak their projects and make for your idea
+* What stack to use?
+    * Web - Frontend:
+        * React (javascript)
+        * Angular (javascript)
+        * Vue (javascript)
+    * Backend
+        * Framework
+        * Express (javascript)
+        * Nest (javascript)
+        * Django (Python)
+    * Database
+        * Postgres (relational)
+        * MongoDB (NoSQL)
+        * Firebase
+        * MySQL
+    * Mobile
+        * Native:
+            * iOS: SwiftUI (swift)
+                * Stanford CS193p: SwiftUI for iOS dev (https://cs193p.sites.stanford.edu)
+            * Android: Android Studio (Kotlin/java)
+                * Rahul Pandey: Native Android dev (https://www.youtube.com/channel/UCJNUtbsYnt-8meFSj_yF50Q)
+        * Cross-platform:
+            * Flutter (Dart)
+            * React Native (Javascript)
+* Tutorials:
+    * freeCodeCamp (https://www.freecodecamp.org/)
+    * LinkedIn Learning (http://linkedin.com/learning)
+    * Scrimba (https://scrimba.com/)
+    * Udemy (https://www.udemy.com/)
+    * Youtube tutorials
+        * Brad Traversy (Traversy Media): MERN-stack web dev (https://www.youtube.com/user/TechGuyWeb)
+
+
+
+
+
+
+
 
 ## Internship Search
 ## Resume
