@@ -14,7 +14,7 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
  * [Opportunities that are NOT internships](#opportunities-that-are-not-internships)
  * [Blogs and resources worth following](#blogs-and-resources-worth-following)
 
-## Learning phase -- building your skillset
+## Learning phase building your skillset
 ## Practicing your Knowledge
 ## Internship Search
 ## Resume
