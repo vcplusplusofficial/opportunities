@@ -15,6 +15,18 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
  * [Blogs and resources worth following](#blogs-and-resources-worth-following)
 
 ## Learning phase building your skillset
+**Learning resources associated with Vassar:**
+* LACOL “Critical Data Science” course for summer credit
+    * Around March, there would be an email sent out regarding summer online learning opportunities, which include enrollment form 
+    * Vassar would take around 6-10 students each summer 
+* Vassar -- Dartmouth Computer Engineering Dual Degree program 
+* RRDAB -- Vassar’s data science student org 	
+    * There are recordings of past workshops 
+
+**Learning resources outside of Vassar:**
+
+
+
 ## Practicing your Knowledge
 ## Internship Search
 ## Resume
