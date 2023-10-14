@@ -88,6 +88,42 @@ Building *anything* is better than building *nothing* so just start building *so
 
 ## Internship Search
 * Start in the Fall for jobs in the Summer.
+
+**Where to look?**
+* Website that lists all open positions and which stage their search is at (10/10 recommend checking this out): https://www.cscareers.dev 
+* RippleMatch: They match you to internships: https://ripplematch.com 
+* LinkedIn (set alerts for "2024 X intern")
+* Handshake
+* Jumpstart
+* Startup jobs: https://angel.co/jobs 
+* Summer 2024 tech internships:
+    * https://github.com/SimplifyJobs/Summer2024-Internships
+* Summer 2024 entry jobs: 
+    * https://github.com/SimplifyJobs/New-Grad-Positions
+* List of software engineering jobs:
+    * https://docs.google.com/spreadsheets/d/1jGa5y7W7rG5tf1HZBF_P-9EmhUDhjvi8ecq7Q43NrMA/edit#gid=0
+* Job board for jobs involved with social issues:
+    * https://www.remoteimpact.io/
+
+**Networking**
+* Where
+    * LinkedIn
+    * VassarNet
+    * Vassar Alum Directory
+    * Jumpstart
+* What to ask?
+    * About their industry and role
+    * How they broke into the field
+    * How someone's interests can apply in their career
+    * Day-to-day work
+    * Work life balance/company culture
+    * Hiring and employment practices
+    * Info about grad school
+
+**Recruitment process**
+* What to expect in the recruitment process?
+
+
 ## Resume
 **CS-related things to include:**
 * Programming languages/technologies i.e React, Python
