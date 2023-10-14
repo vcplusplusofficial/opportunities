@@ -6,13 +6,13 @@ For Summer SWE internships go to [Summer 2024 CS Internships](https://github.com
 
 Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
-*[Learning phase -- building your skillset](#learning-phase)
-*[Practicing your Knowledge](#practicing-your-knowledge)
-*[Internship Search](#internship-search)
-*[Resume](#resume)
-*[Interviewing](#interviewing)
-*[Opportunities that are NOT internships](#opportunities-not-internships)
-*[Blogs and resources worth following](#blogs-and-resources)
+ * [Learning phase -- building your skillset](#learning-phase)
+ * [Practicing your Knowledge](#practicing-your-knowledge)
+ * [Internship Search](#internship-search)
+ * [Resume](#resume)
+ * [Interviewing](#interviewing)
+ * [Opportunities that are NOT internships](#opportunities-not-internships)
+ * [Blogs and resources worth following](#blogs-and-resources)
 
 ## learning-phase
 ## practicing-your-knowledge
