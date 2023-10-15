@@ -91,7 +91,7 @@ Building *anything* is better than building *nothing* so just start building *so
 * [This document](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) is written and reviewed by Carleton College students (class of 2022 and 2023) as a guide for students on finding tech internships (or new grad positions). Contacts are listed at the end of the document. 
 
 **Where to look?**
-* Website that lists all open positions and which stage their search is at (10/10 recommend checking this out): https://www.cscareers.dev 
+* Website that lists all open positions and which stage their search is at (10/10 recommend checking this out): [Link](https://www.cscareers.dev)
 * [RippleMatch](https://ripplematch.com): They match you to internships: 
 * LinkedIn (set alerts for "2024 X intern")
 * Handshake
