@@ -13,6 +13,7 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
  * [Interviewing](#interviewing)
  * [Opportunities that are NOT internships](#opportunities-that-are-not-internships)
  * [Blogs and resources worth following](#blogs-and-resources-worth-following)
+ * [Bonus: Resume and Tips](#bonus-resume-and-tips)
 
 ## Learning phase building your skillset
 **Learning resources associated with Vassar:**
